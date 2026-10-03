@@ -15,3 +15,10 @@ gitcode open source data package：https://gitcode.com/open-source-toolkit/b0066
 CSDN blogs: https://blog.csdn.net/gitblog_09794/article/details/143011043
 ### ArcGIS10.8 Installation Tutorial
 softgj: https://mp.weixin.qq.com/s/yEiNLIafPV_E9Rt0vYQQTQ
+
+### Overall project framework diagram
+### Model Architecture
+
+![Model Architecture](Overall_project_framework_diagram.png)
+
+*Figure 1. The overall architecture of the proposed model.*
